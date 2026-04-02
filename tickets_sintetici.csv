@@ -1,0 +1,301 @@
+id,title,body,category,priority
+1,Stato dell'ordine n. 1015,Quali sono le condizioni minime di fornitura per un ordine ricorrente mensile?,Commerciale,bassa
+2,Impossibile accedere al portale interno,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+3,Stato dell'ordine n. 1067,Devo modificare la quantità dell'ordine 1160 da 10 a 25 unità. È ancora possibile?,Commerciale,bassa
+4,Perdita dati su drive condiviso,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+5,Modifica quantità su ordine in corso,Vorrei ricevere il catalogo aggiornato con i nuovi prodotti del secondo semestre.,Commerciale,bassa
+6,Chiarimento su nota credito,"Buongiorno, non ho ancora ricevuto la fattura relativa al mese di aprile. Potete inviarla al più presto?",Amministrazione,bassa
+7,Modifica quantità su ordine in corso,Siamo interessati ad acquistare 50 licenze. Potete inviarci un preventivo dettagliato?,Commerciale,bassa
+8,Interesse per piano Enterprise,Il contratto scade a fine mese. Vorrei ricevere la proposta di rinnovo con le nuove condizioni.,Commerciale,bassa
+9,Offerta scaduta: rinnovo contratto,L'ordine 1189 risulta ancora in lavorazione. A quando è prevista la spedizione?,Commerciale,media
+10,Malfunzionamento scanner documenti,Il portale restituisce errore 403. Ho provato con più browser ma la situazione non cambia.,Tecnico,bassa
+11,Sistema bloccato dopo aggiornamento,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+12,Stato dell'ordine n. 1106,Il contratto scade a fine mese. Vorrei ricevere la proposta di rinnovo con le nuove condizioni.,Commerciale,bassa
+13,Domanda su condizioni di fornitura,Vorrei capire i vantaggi del piano Enterprise rispetto all'abbonamento Standard attuale.,Commerciale,bassa
+14,Chiarimento su nota credito,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+15,Sollecito pagamento arretrato,La fattura numero 1075 riporta un importo errato di 750 euro invece di 2300. Chiedo rettifica.,Amministrazione,media
+16,Errore critico all'avvio dell'applicazione,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+17,Modifica quantità su ordine in corso,Quali sono le condizioni minime di fornitura per un ordine ricorrente mensile?,Commerciale,bassa
+18,Richiesta fattura dicembre,Solicito ricevuta di pagamento relativa alla transazione del 4/1/2024 per 480 euro.,Amministrazione,bassa
+19,Scadenza pagamento non ricevuta,Ho effettuato il pagamento il 23/4/2024 ma non risulta registrato. Allego la contabile bancaria.,Amministrazione,media
+20,Sistema bloccato dopo aggiornamento,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+21,Richiesta referenze commerciali,La promozione del 15% non è stata applicata all'ordine 1165. Chiedo correzione.,Commerciale,bassa
+22,Offerta scaduta: rinnovo contratto,Potete fornirmi alcune referenze commerciali di aziende che usano il vostro servizio?,Commerciale,bassa
+23,Richiesta referenze commerciali,L'ordine 1059 doveva arrivare il 25/1/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+24,Sollecito pagamento arretrato,Solicito ricevuta di pagamento relativa alla transazione del 22/2/2024 per 670 euro.,Amministrazione,media
+25,Modifica quantità su ordine in corso,Vorrei capire i vantaggi del piano Enterprise rispetto all'abbonamento Standard attuale.,Commerciale,bassa
+26,Mancato rimborso spese marzo,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,media
+27,Interesse per piano Enterprise,Siamo interessati ad acquistare 50 licenze. Potete inviarci un preventivo dettagliato?,Commerciale,bassa
+28,Chiarimento su nota credito,Non ho ricevuto il promemoria di scadenza per la rata di febbraio. Inviatemi le istruzioni di pagamento.,Amministrazione,bassa
+29,Sistema bloccato dopo aggiornamento,Le email non vengono inviate: errore 'Connessione SMTP rifiutata'. Riguarda tutti gli utenti.,Tecnico,alta
+30,Richiesta ricevuta di pagamento,Ho effettuato il pagamento il 13/7/2024 ma non risulta registrato. Allego la contabile bancaria.,Amministrazione,media
+31,Discrepanza importo in estratto conto,Ho effettuato il pagamento il 3/7/2024 ma non risulta registrato. Allego la contabile bancaria.,Amministrazione,media
+32,Consegna in ritardo ordine 1110,La promozione del 15% non è stata applicata all'ordine 1191. Chiedo correzione.,Commerciale,media
+33,Mancato rimborso spese giugno,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,media
+34,Chiarimento su nota credito,Solicito ricevuta di pagamento relativa alla transazione del 12/12/2024 per 670 euro.,Amministrazione,bassa
+35,PC lento e instabile,Lo scanner non viene riconosciuto dopo la sostituzione del cavo USB. Ho reinstallato i driver.,Tecnico,media
+36,Offerta scaduta: rinnovo contratto,Devo modificare la quantità dell'ordine 1157 da 10 a 25 unità. È ancora possibile?,Commerciale,bassa
+37,Errore critico all'avvio dell'applicazione,"Il PC è lento nell'ultima settimana: avvio lungo, applicazioni bloccate, disco al 100%.",Tecnico,alta
+38,Impossibile accedere al portale interno,Le email non vengono inviate: errore 'Connessione SMTP rifiutata'. Riguarda tutti gli utenti.,Tecnico,bassa
+39,Stato dell'ordine n. 1016,L'ordine 1031 risulta ancora in lavorazione. A quando è prevista la spedizione?,Commerciale,media
+40,Domanda su condizioni di fornitura,Vorrei ricevere il catalogo aggiornato con i nuovi prodotti del secondo semestre.,Commerciale,bassa
+41,Richiesta referenze commerciali,La promozione del 15% non è stata applicata all'ordine 1101. Chiedo correzione.,Commerciale,bassa
+42,Errore critico all'avvio dell'applicazione,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+43,Offerta scaduta: rinnovo contratto,La promozione del 15% non è stata applicata all'ordine 1100. Chiedo correzione.,Commerciale,bassa
+44,Perdita dati su drive condiviso,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+45,Consegna in ritardo ordine 1154,La promozione del 15% non è stata applicata all'ordine 1185. Chiedo correzione.,Commerciale,media
+46,Errore importo su fattura n. 1029,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+47,Richiesta referenze commerciali,Potete fornirmi alcune referenze commerciali di aziende che usano il vostro servizio?,Commerciale,bassa
+48,PC lento e instabile,Lo scanner non viene riconosciuto dopo la sostituzione del cavo USB. Ho reinstallato i driver.,Tecnico,media
+49,Aggiornamento dati fiscali azienda,Solicito ricevuta di pagamento relativa alla transazione del 19/7/2024 per 2300 euro.,Amministrazione,bassa
+50,Discrepanza importo in estratto conto,"Buongiorno, non ho ancora ricevuto la fattura relativa al mese di maggio. Potete inviarla al più presto?",Amministrazione,media
+51,Perdita dati su drive condiviso,"Il PC è lento nell'ultima settimana: avvio lungo, applicazioni bloccate, disco al 100%.",Tecnico,alta
+52,Richiesta ricevuta di pagamento,"Sono in attesa del rimborso spese presentato a ottobre. Trascorsi 30 giorni, sollecito l'evasione.",Amministrazione,media
+53,Fattura duplicata ottobre,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+54,VPN aziendale non funzionante,Il portale restituisce errore 403. Ho provato con più browser ma la situazione non cambia.,Tecnico,alta
+55,Stato dell'ordine n. 1024,Il contratto scade a fine mese. Vorrei ricevere la proposta di rinnovo con le nuove condizioni.,Commerciale,bassa
+56,Mancato rimborso spese settembre,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,media
+57,Sistema bloccato dopo aggiornamento,Lo scanner non viene riconosciuto dopo la sostituzione del cavo USB. Ho reinstallato i driver.,Tecnico,alta
+58,Promozione non applicata all'ordine,Vorrei capire i vantaggi del piano Enterprise rispetto all'abbonamento Standard attuale.,Commerciale,media
+59,Scadenza pagamento non ricevuta,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,bassa
+60,PC lento e instabile,Alcuni file sul drive condiviso sono scomparsi. È urgente il ripristino dei dati.,Tecnico,alta
+61,Email non inviate: errore SMTP,La stampante condivisa non risponde. Altri colleghi hanno lo stesso problema.,Tecnico,bassa
+62,Richiesta catalogo prodotti aggiornato,La promozione del 15% non è stata applicata all'ordine 1139. Chiedo correzione.,Commerciale,bassa
+63,Offerta scaduta: rinnovo contratto,Siamo interessati ad acquistare 50 licenze. Potete inviarci un preventivo dettagliato?,Commerciale,bassa
+64,Domanda su condizioni di fornitura,Il contratto scade a fine mese. Vorrei ricevere la proposta di rinnovo con le nuove condizioni.,Commerciale,bassa
+65,Email non inviate: errore SMTP,Le email non vengono inviate: errore 'Connessione SMTP rifiutata'. Riguarda tutti gli utenti.,Tecnico,bassa
+66,Stampante di rete non raggiungibile,Lo scanner non viene riconosciuto dopo la sostituzione del cavo USB. Ho reinstallato i driver.,Tecnico,media
+67,Email non inviate: errore SMTP,Le email non vengono inviate: errore 'Connessione SMTP rifiutata'. Riguarda tutti gli utenti.,Tecnico,bassa
+68,Offerta scaduta: rinnovo contratto,Siamo interessati ad acquistare 50 licenze. Potete inviarci un preventivo dettagliato?,Commerciale,bassa
+69,VPN aziendale non funzionante,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+70,Chiarimento su nota credito,Non ho ricevuto il promemoria di scadenza per la rata di ottobre. Inviatemi le istruzioni di pagamento.,Amministrazione,bassa
+71,Interesse per piano Enterprise,L'ordine 1007 doveva arrivare il 15/10/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+72,Modifica quantità su ordine in corso,Potete fornirmi alcune referenze commerciali di aziende che usano il vostro servizio?,Commerciale,bassa
+73,Consegna in ritardo ordine 1163,Vorrei ricevere il catalogo aggiornato con i nuovi prodotti del secondo semestre.,Commerciale,media
+74,Email non inviate: errore SMTP,Dopo l'aggiornamento di ieri il software è bloccato. Non riesco ad aprire nessuna funzione.,Tecnico,alta
+75,Errore critico all'avvio dell'applicazione,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,alta
+76,Discrepanza importo in estratto conto,"Sono in attesa del rimborso spese presentato a maggio. Trascorsi 30 giorni, sollecito l'evasione.",Amministrazione,media
+77,Perdita dati su drive condiviso,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+78,Discrepanza importo in estratto conto,L'estratto conto mensile non corrisponde alle fatture. Chiedo un controllo dettagliato.,Amministrazione,media
+79,Sollecito pagamento arretrato,"Sono in attesa del rimborso spese presentato a giugno. Trascorsi 30 giorni, sollecito l'evasione.",Amministrazione,media
+80,Stato dell'ordine n. 1153,Devo modificare la quantità dell'ordine 1107 da 10 a 25 unità. È ancora possibile?,Commerciale,bassa
+81,Impossibile accedere al portale interno,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+82,Stampante di rete non raggiungibile,Alcuni file sul drive condiviso sono scomparsi. È urgente il ripristino dei dati.,Tecnico,alta
+83,Impossibile accedere al portale interno,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+84,Malfunzionamento scanner documenti,Lo scanner non viene riconosciuto dopo la sostituzione del cavo USB. Ho reinstallato i driver.,Tecnico,bassa
+85,Aggiornamento dati fiscali azienda,La fattura numero 1147 riporta un importo errato di 750 euro invece di 1200. Chiedo rettifica.,Amministrazione,bassa
+86,Interesse per piano Enterprise,Vorrei capire i vantaggi del piano Enterprise rispetto all'abbonamento Standard attuale.,Commerciale,bassa
+87,Aggiornamento dati fiscali azienda,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,bassa
+88,Domanda su condizioni di fornitura,L'ordine 1038 doveva arrivare il 6/9/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+89,Stato dell'ordine n. 1120,L'ordine 1144 doveva arrivare il 1/5/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+90,Richiesta referenze commerciali,L'ordine 1129 doveva arrivare il 22/8/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+91,Aggiornamento dati fiscali azienda,Ho effettuato il pagamento il 20/7/2024 ma non risulta registrato. Allego la contabile bancaria.,Amministrazione,media
+92,Richiesta preventivo licenze software,Potete fornirmi alcune referenze commerciali di aziende che usano il vostro servizio?,Commerciale,bassa
+93,Errore critico all'avvio dell'applicazione,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+94,Richiesta referenze commerciali,Vorrei ricevere il catalogo aggiornato con i nuovi prodotti del secondo semestre.,Commerciale,bassa
+95,Richiesta catalogo prodotti aggiornato,Devo modificare la quantità dell'ordine 1028 da 10 a 25 unità. È ancora possibile?,Commerciale,bassa
+96,Sollecito pagamento arretrato,La fattura 1138 risulta emessa due volte nel portale. Chiedo la cancellazione del duplicato.,Amministrazione,media
+97,Domanda su condizioni di fornitura,Quali sono le condizioni minime di fornitura per un ordine ricorrente mensile?,Commerciale,bassa
+98,Richiesta preventivo licenze software,Potete fornirmi alcune referenze commerciali di aziende che usano il vostro servizio?,Commerciale,bassa
+99,Perdita dati su drive condiviso,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,alta
+100,Mancato rimborso spese agosto,Solicito ricevuta di pagamento relativa alla transazione del 16/4/2024 per 340 euro.,Amministrazione,media
+101,Richiesta fattura agosto,Non ho ricevuto il promemoria di scadenza per la rata di ottobre. Inviatemi le istruzioni di pagamento.,Amministrazione,bassa
+102,Modifica quantità su ordine in corso,Quali sono le condizioni minime di fornitura per un ordine ricorrente mensile?,Commerciale,bassa
+103,Richiesta fattura gennaio,"Buongiorno, non ho ancora ricevuto la fattura relativa al mese di settembre. Potete inviarla al più presto?",Amministrazione,bassa
+104,Sistema bloccato dopo aggiornamento,Dopo l'aggiornamento di ieri il software è bloccato. Non riesco ad aprire nessuna funzione.,Tecnico,alta
+105,Mancato rimborso spese ottobre,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+106,Richiesta ricevuta di pagamento,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+107,Consegna in ritardo ordine 1113,Siamo interessati ad acquistare 50 licenze. Potete inviarci un preventivo dettagliato?,Commerciale,media
+108,Sollecito pagamento arretrato,L'estratto conto mensile non corrisponde alle fatture. Chiedo un controllo dettagliato.,Amministrazione,media
+109,Richiesta fattura luglio,La fattura 1118 risulta emessa due volte nel portale. Chiedo la cancellazione del duplicato.,Amministrazione,bassa
+110,Errore importo su fattura n. 1036,L'estratto conto mensile non corrisponde alle fatture. Chiedo un controllo dettagliato.,Amministrazione,bassa
+111,Email non inviate: errore SMTP,"Il PC è lento nell'ultima settimana: avvio lungo, applicazioni bloccate, disco al 100%.",Tecnico,media
+112,Stato dell'ordine n. 1172,La promozione del 15% non è stata applicata all'ordine 1168. Chiedo correzione.,Commerciale,bassa
+113,Perdita dati su drive condiviso,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+114,VPN aziendale non funzionante,La stampante condivisa non risponde. Altri colleghi hanno lo stesso problema.,Tecnico,alta
+115,Richiesta fattura ottobre,La fattura 1051 risulta emessa due volte nel portale. Chiedo la cancellazione del duplicato.,Amministrazione,bassa
+116,Promozione non applicata all'ordine,Quali sono le condizioni minime di fornitura per un ordine ricorrente mensile?,Commerciale,media
+117,Fattura duplicata luglio,La fattura numero 1009 riporta un importo errato di 89 euro invece di 750. Chiedo rettifica.,Amministrazione,media
+118,Stato dell'ordine n. 1087,Devo modificare la quantità dell'ordine 1141 da 10 a 25 unità. È ancora possibile?,Commerciale,bassa
+119,PC lento e instabile,Le email non vengono inviate: errore 'Connessione SMTP rifiutata'. Riguarda tutti gli utenti.,Tecnico,media
+120,Modifica quantità su ordine in corso,L'ordine 1061 doveva arrivare il 3/7/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+121,Sollecito pagamento arretrato,Ho effettuato il pagamento il 26/9/2024 ma non risulta registrato. Allego la contabile bancaria.,Amministrazione,media
+122,Sistema bloccato dopo aggiornamento,Dopo l'aggiornamento di ieri il software è bloccato. Non riesco ad aprire nessuna funzione.,Tecnico,alta
+123,Modifica quantità su ordine in corso,Devo modificare la quantità dell'ordine 1152 da 10 a 25 unità. È ancora possibile?,Commerciale,bassa
+124,Richiesta catalogo prodotti aggiornato,Potete fornirmi alcune referenze commerciali di aziende che usano il vostro servizio?,Commerciale,bassa
+125,Richiesta referenze commerciali,La promozione del 15% non è stata applicata all'ordine 1145. Chiedo correzione.,Commerciale,bassa
+126,Consegna in ritardo ordine 1033,L'ordine 1188 doveva arrivare il 15/5/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,media
+127,Errore critico all'avvio dell'applicazione,Le email non vengono inviate: errore 'Connessione SMTP rifiutata'. Riguarda tutti gli utenti.,Tecnico,alta
+128,Interesse per piano Enterprise,L'ordine 1176 doveva arrivare il 6/5/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+129,Mancato rimborso spese giugno,Ho effettuato il pagamento il 1/3/2024 ma non risulta registrato. Allego la contabile bancaria.,Amministrazione,media
+130,Chiarimento su nota credito,La fattura 1042 risulta emessa due volte nel portale. Chiedo la cancellazione del duplicato.,Amministrazione,bassa
+131,Mancato rimborso spese marzo,L'estratto conto mensile non corrisponde alle fatture. Chiedo un controllo dettagliato.,Amministrazione,media
+132,Richiesta catalogo prodotti aggiornato,Potete fornirmi alcune referenze commerciali di aziende che usano il vostro servizio?,Commerciale,bassa
+133,Sollecito pagamento arretrato,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,media
+134,Malfunzionamento scanner documenti,Dopo l'aggiornamento di ieri il software è bloccato. Non riesco ad aprire nessuna funzione.,Tecnico,alta
+135,Scadenza pagamento non ricevuta,Solicito ricevuta di pagamento relativa alla transazione del 18/1/2024 per 250 euro.,Amministrazione,bassa
+136,Domanda su condizioni di fornitura,L'ordine 1187 doveva arrivare il 11/6/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+137,Malfunzionamento scanner documenti,"Il PC è lento nell'ultima settimana: avvio lungo, applicazioni bloccate, disco al 100%.",Tecnico,media
+138,Impossibile accedere al portale interno,Dopo l'aggiornamento di ieri il software è bloccato. Non riesco ad aprire nessuna funzione.,Tecnico,alta
+139,Errore importo su fattura n. 1035,L'estratto conto mensile non corrisponde alle fatture. Chiedo un controllo dettagliato.,Amministrazione,bassa
+140,Email non inviate: errore SMTP,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,bassa
+141,Consegna in ritardo ordine 1121,L'ordine 1111 risulta ancora in lavorazione. A quando è prevista la spedizione?,Commerciale,media
+142,Richiesta preventivo licenze software,L'ordine 1161 doveva arrivare il 23/3/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+143,Impossibile accedere al portale interno,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+144,Stato dell'ordine n. 1156,Il contratto scade a fine mese. Vorrei ricevere la proposta di rinnovo con le nuove condizioni.,Commerciale,bassa
+145,Sistema bloccato dopo aggiornamento,Alcuni file sul drive condiviso sono scomparsi. È urgente il ripristino dei dati.,Tecnico,alta
+146,Sistema bloccato dopo aggiornamento,Lo scanner non viene riconosciuto dopo la sostituzione del cavo USB. Ho reinstallato i driver.,Tecnico,alta
+147,Promozione non applicata all'ordine,L'ordine 1115 risulta ancora in lavorazione. A quando è prevista la spedizione?,Commerciale,media
+148,Domanda su condizioni di fornitura,Quali sono le condizioni minime di fornitura per un ordine ricorrente mensile?,Commerciale,bassa
+149,PC lento e instabile,Dopo l'aggiornamento di ieri il software è bloccato. Non riesco ad aprire nessuna funzione.,Tecnico,alta
+150,Impossibile accedere al portale interno,Le email non vengono inviate: errore 'Connessione SMTP rifiutata'. Riguarda tutti gli utenti.,Tecnico,bassa
+151,Richiesta preventivo licenze software,L'ordine 1076 doveva arrivare il 8/10/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+152,Mancato rimborso spese maggio,La fattura 1007 risulta emessa due volte nel portale. Chiedo la cancellazione del duplicato.,Amministrazione,media
+153,Stato dell'ordine n. 1092,Il contratto scade a fine mese. Vorrei ricevere la proposta di rinnovo con le nuove condizioni.,Commerciale,bassa
+154,Malfunzionamento scanner documenti,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+155,Consegna in ritardo ordine 1144,L'ordine 1166 risulta ancora in lavorazione. A quando è prevista la spedizione?,Commerciale,media
+156,Discrepanza importo in estratto conto,"Sono in attesa del rimborso spese presentato a agosto. Trascorsi 30 giorni, sollecito l'evasione.",Amministrazione,media
+157,Aggiornamento dati fiscali azienda,Solicito ricevuta di pagamento relativa alla transazione del 7/5/2024 per 89 euro.,Amministrazione,bassa
+158,Domanda su condizioni di fornitura,Devo modificare la quantità dell'ordine 1044 da 10 a 25 unità. È ancora possibile?,Commerciale,bassa
+159,Scadenza pagamento non ricevuta,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+160,Fattura duplicata agosto,La fattura numero 1005 riporta un importo errato di 990 euro invece di 670. Chiedo rettifica.,Amministrazione,media
+161,Malfunzionamento scanner documenti,Il portale restituisce errore 403. Ho provato con più browser ma la situazione non cambia.,Tecnico,bassa
+162,Richiesta fattura ottobre,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+163,Aggiornamento dati fiscali azienda,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,bassa
+164,Perdita dati su drive condiviso,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+165,Malfunzionamento scanner documenti,Dopo l'aggiornamento di ieri il software è bloccato. Non riesco ad aprire nessuna funzione.,Tecnico,alta
+166,Email non inviate: errore SMTP,Lo scanner non viene riconosciuto dopo la sostituzione del cavo USB. Ho reinstallato i driver.,Tecnico,bassa
+167,Consegna in ritardo ordine 1138,Il contratto scade a fine mese. Vorrei ricevere la proposta di rinnovo con le nuove condizioni.,Commerciale,media
+168,Aggiornamento dati fiscali azienda,Solicito ricevuta di pagamento relativa alla transazione del 20/4/2024 per 1200 euro.,Amministrazione,bassa
+169,Sistema bloccato dopo aggiornamento,Il portale restituisce errore 403. Ho provato con più browser ma la situazione non cambia.,Tecnico,alta
+170,Stampante di rete non raggiungibile,Lo scanner non viene riconosciuto dopo la sostituzione del cavo USB. Ho reinstallato i driver.,Tecnico,media
+171,Sistema bloccato dopo aggiornamento,La stampante condivisa non risponde. Altri colleghi hanno lo stesso problema.,Tecnico,alta
+172,Scadenza pagamento non ricevuta,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+173,Richiesta ricevuta di pagamento,Non ho ricevuto il promemoria di scadenza per la rata di febbraio. Inviatemi le istruzioni di pagamento.,Amministrazione,bassa
+174,Mancato rimborso spese luglio,"Buongiorno, non ho ancora ricevuto la fattura relativa al mese di aprile. Potete inviarla al più presto?",Amministrazione,media
+175,Scadenza pagamento non ricevuta,"Sono in attesa del rimborso spese presentato a giugno. Trascorsi 30 giorni, sollecito l'evasione.",Amministrazione,media
+176,VPN aziendale non funzionante,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+177,Schermata blu ripetuta sul laptop,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+178,Modifica quantità su ordine in corso,La promozione del 15% non è stata applicata all'ordine 1056. Chiedo correzione.,Commerciale,bassa
+179,Stato dell'ordine n. 1134,Devo modificare la quantità dell'ordine 1090 da 10 a 25 unità. È ancora possibile?,Commerciale,bassa
+180,Promozione non applicata all'ordine,Siamo interessati ad acquistare 50 licenze. Potete inviarci un preventivo dettagliato?,Commerciale,media
+181,Consegna in ritardo ordine 1065,Vorrei capire i vantaggi del piano Enterprise rispetto all'abbonamento Standard attuale.,Commerciale,media
+182,Email non inviate: errore SMTP,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+183,VPN aziendale non funzionante,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,alta
+184,Sollecito pagamento arretrato,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+185,Scadenza pagamento non ricevuta,La fattura 1011 risulta emessa due volte nel portale. Chiedo la cancellazione del duplicato.,Amministrazione,bassa
+186,Domanda su condizioni di fornitura,Quali sono le condizioni minime di fornitura per un ordine ricorrente mensile?,Commerciale,bassa
+187,Richiesta ricevuta di pagamento,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,bassa
+188,Sollecito pagamento arretrato,La fattura 1125 risulta emessa due volte nel portale. Chiedo la cancellazione del duplicato.,Amministrazione,media
+189,Interesse per piano Enterprise,Il contratto scade a fine mese. Vorrei ricevere la proposta di rinnovo con le nuove condizioni.,Commerciale,bassa
+190,Interesse per piano Enterprise,La promozione del 15% non è stata applicata all'ordine 1188. Chiedo correzione.,Commerciale,bassa
+191,Richiesta catalogo prodotti aggiornato,L'ordine 1162 doveva arrivare il 11/6/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+192,Richiesta ricevuta di pagamento,Solicito ricevuta di pagamento relativa alla transazione del 8/1/2024 per 2300 euro.,Amministrazione,bassa
+193,Modifica quantità su ordine in corso,Quali sono le condizioni minime di fornitura per un ordine ricorrente mensile?,Commerciale,bassa
+194,Consegna in ritardo ordine 1165,L'ordine 1127 risulta ancora in lavorazione. A quando è prevista la spedizione?,Commerciale,media
+195,VPN aziendale non funzionante,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+196,Sistema bloccato dopo aggiornamento,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+197,Errore critico all'avvio dell'applicazione,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,alta
+198,Richiesta catalogo prodotti aggiornato,Vorrei capire i vantaggi del piano Enterprise rispetto all'abbonamento Standard attuale.,Commerciale,bassa
+199,Fattura duplicata giugno,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,media
+200,Chiarimento su nota credito,"Buongiorno, non ho ancora ricevuto la fattura relativa al mese di gennaio. Potete inviarla al più presto?",Amministrazione,bassa
+201,Impossibile accedere al portale interno,"Il PC è lento nell'ultima settimana: avvio lungo, applicazioni bloccate, disco al 100%.",Tecnico,media
+202,Richiesta preventivo licenze software,Quali sono le condizioni minime di fornitura per un ordine ricorrente mensile?,Commerciale,bassa
+203,Chiarimento su nota credito,Ho effettuato il pagamento il 26/8/2024 ma non risulta registrato. Allego la contabile bancaria.,Amministrazione,media
+204,Richiesta preventivo licenze software,La promozione del 15% non è stata applicata all'ordine 1133. Chiedo correzione.,Commerciale,bassa
+205,Promozione non applicata all'ordine,Devo modificare la quantità dell'ordine 1196 da 10 a 25 unità. È ancora possibile?,Commerciale,media
+206,PC lento e instabile,Alcuni file sul drive condiviso sono scomparsi. È urgente il ripristino dei dati.,Tecnico,alta
+207,Promozione non applicata all'ordine,Devo modificare la quantità dell'ordine 1107 da 10 a 25 unità. È ancora possibile?,Commerciale,media
+208,Malfunzionamento scanner documenti,La stampante condivisa non risponde. Altri colleghi hanno lo stesso problema.,Tecnico,bassa
+209,Sistema bloccato dopo aggiornamento,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+210,Errore importo su fattura n. 1195,"Buongiorno, non ho ancora ricevuto la fattura relativa al mese di ottobre. Potete inviarla al più presto?",Amministrazione,bassa
+211,Consegna in ritardo ordine 1081,L'ordine 1172 risulta ancora in lavorazione. A quando è prevista la spedizione?,Commerciale,media
+212,Aggiornamento dati fiscali azienda,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,bassa
+213,Mancato rimborso spese giugno,Solicito ricevuta di pagamento relativa alla transazione del 14/1/2024 per 670 euro.,Amministrazione,media
+214,Offerta scaduta: rinnovo contratto,Quali sono le condizioni minime di fornitura per un ordine ricorrente mensile?,Commerciale,bassa
+215,Promozione non applicata all'ordine,Siamo interessati ad acquistare 50 licenze. Potete inviarci un preventivo dettagliato?,Commerciale,media
+216,Discrepanza importo in estratto conto,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,media
+217,Malfunzionamento scanner documenti,"Il PC è lento nell'ultima settimana: avvio lungo, applicazioni bloccate, disco al 100%.",Tecnico,media
+218,Malfunzionamento scanner documenti,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,bassa
+219,PC lento e instabile,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,media
+220,Malfunzionamento scanner documenti,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,bassa
+221,Stampante di rete non raggiungibile,Alcuni file sul drive condiviso sono scomparsi. È urgente il ripristino dei dati.,Tecnico,alta
+222,Impossibile accedere al portale interno,Il portale restituisce errore 403. Ho provato con più browser ma la situazione non cambia.,Tecnico,bassa
+223,Discrepanza importo in estratto conto,La fattura 1191 risulta emessa due volte nel portale. Chiedo la cancellazione del duplicato.,Amministrazione,media
+224,Richiesta ricevuta di pagamento,"Buongiorno, non ho ancora ricevuto la fattura relativa al mese di gennaio. Potete inviarla al più presto?",Amministrazione,bassa
+225,Mancato rimborso spese settembre,Ho effettuato il pagamento il 20/12/2024 ma non risulta registrato. Allego la contabile bancaria.,Amministrazione,media
+226,Fattura duplicata aprile,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+227,Scadenza pagamento non ricevuta,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,bassa
+228,Fattura duplicata agosto,Ho effettuato il pagamento il 22/11/2024 ma non risulta registrato. Allego la contabile bancaria.,Amministrazione,media
+229,Errore critico all'avvio dell'applicazione,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,alta
+230,Domanda su condizioni di fornitura,L'ordine 1188 doveva arrivare il 28/1/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+231,VPN aziendale non funzionante,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+232,Sollecito pagamento arretrato,La fattura 1102 risulta emessa due volte nel portale. Chiedo la cancellazione del duplicato.,Amministrazione,media
+233,Email non inviate: errore SMTP,Il portale restituisce errore 403. Ho provato con più browser ma la situazione non cambia.,Tecnico,bassa
+234,PC lento e instabile,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+235,Fattura duplicata luglio,Non ho ricevuto il promemoria di scadenza per la rata di aprile. Inviatemi le istruzioni di pagamento.,Amministrazione,media
+236,Perdita dati su drive condiviso,"Il PC è lento nell'ultima settimana: avvio lungo, applicazioni bloccate, disco al 100%.",Tecnico,alta
+237,Stampante di rete non raggiungibile,Le email non vengono inviate: errore 'Connessione SMTP rifiutata'. Riguarda tutti gli utenti.,Tecnico,media
+238,Richiesta catalogo prodotti aggiornato,Devo modificare la quantità dell'ordine 1024 da 10 a 25 unità. È ancora possibile?,Commerciale,bassa
+239,Errore critico all'avvio dell'applicazione,Lo scanner non viene riconosciuto dopo la sostituzione del cavo USB. Ho reinstallato i driver.,Tecnico,alta
+240,Stampante di rete non raggiungibile,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+241,Scadenza pagamento non ricevuta,La fattura numero 1042 riporta un importo errato di 1200 euro invece di 120. Chiedo rettifica.,Amministrazione,bassa
+242,Errore importo su fattura n. 1130,La fattura numero 1060 riporta un importo errato di 340 euro invece di 250. Chiedo rettifica.,Amministrazione,bassa
+243,Richiesta referenze commerciali,Potete fornirmi alcune referenze commerciali di aziende che usano il vostro servizio?,Commerciale,bassa
+244,Consegna in ritardo ordine 1001,L'ordine 1026 risulta ancora in lavorazione. A quando è prevista la spedizione?,Commerciale,media
+245,Perdita dati su drive condiviso,Dopo l'aggiornamento di ieri il software è bloccato. Non riesco ad aprire nessuna funzione.,Tecnico,alta
+246,Chiarimento su nota credito,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,bassa
+247,Stampante di rete non raggiungibile,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,media
+248,Discrepanza importo in estratto conto,Ho effettuato il pagamento il 20/2/2024 ma non risulta registrato. Allego la contabile bancaria.,Amministrazione,media
+249,Fattura duplicata febbraio,Solicito ricevuta di pagamento relativa alla transazione del 21/8/2024 per 750 euro.,Amministrazione,media
+250,Richiesta catalogo prodotti aggiornato,L'ordine 1107 doveva arrivare il 26/2/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+251,Richiesta fattura febbraio,Solicito ricevuta di pagamento relativa alla transazione del 28/2/2024 per 670 euro.,Amministrazione,bassa
+252,Richiesta fattura maggio,Solicito ricevuta di pagamento relativa alla transazione del 6/2/2024 per 480 euro.,Amministrazione,bassa
+253,Fattura duplicata luglio,La fattura numero 1103 riporta un importo errato di 2300 euro invece di 250. Chiedo rettifica.,Amministrazione,media
+254,Discrepanza importo in estratto conto,Ho effettuato il pagamento il 10/3/2024 ma non risulta registrato. Allego la contabile bancaria.,Amministrazione,media
+255,Domanda su condizioni di fornitura,Vorrei ricevere il catalogo aggiornato con i nuovi prodotti del secondo semestre.,Commerciale,bassa
+256,VPN aziendale non funzionante,Lo scanner non viene riconosciuto dopo la sostituzione del cavo USB. Ho reinstallato i driver.,Tecnico,alta
+257,Stato dell'ordine n. 1093,L'ordine 1025 doveva arrivare il 11/3/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+258,Discrepanza importo in estratto conto,La fattura numero 1137 riporta un importo errato di 1200 euro invece di 2300. Chiedo rettifica.,Amministrazione,media
+259,PC lento e instabile,Le email non vengono inviate: errore 'Connessione SMTP rifiutata'. Riguarda tutti gli utenti.,Tecnico,media
+260,Chiarimento su nota credito,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,bassa
+261,Aggiornamento dati fiscali azienda,La fattura numero 1084 riporta un importo errato di 990 euro invece di 2300. Chiedo rettifica.,Amministrazione,bassa
+262,Domanda su condizioni di fornitura,Devo modificare la quantità dell'ordine 1186 da 10 a 25 unità. È ancora possibile?,Commerciale,bassa
+263,Sollecito pagamento arretrato,Ho effettuato il pagamento il 28/8/2024 ma non risulta registrato. Allego la contabile bancaria.,Amministrazione,media
+264,Email non inviate: errore SMTP,Dopo l'aggiornamento di ieri il software è bloccato. Non riesco ad aprire nessuna funzione.,Tecnico,alta
+265,Consegna in ritardo ordine 1124,Vorrei capire i vantaggi del piano Enterprise rispetto all'abbonamento Standard attuale.,Commerciale,media
+266,Fattura duplicata aprile,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+267,Email non inviate: errore SMTP,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+268,Modifica quantità su ordine in corso,Vorrei ricevere il catalogo aggiornato con i nuovi prodotti del secondo semestre.,Commerciale,bassa
+269,Email non inviate: errore SMTP,Il portale restituisce errore 403. Ho provato con più browser ma la situazione non cambia.,Tecnico,bassa
+270,Modifica quantità su ordine in corso,Devo modificare la quantità dell'ordine 1024 da 10 a 25 unità. È ancora possibile?,Commerciale,bassa
+271,Domanda su condizioni di fornitura,Quali sono le condizioni minime di fornitura per un ordine ricorrente mensile?,Commerciale,bassa
+272,Richiesta referenze commerciali,L'ordine 1090 doveva arrivare il 9/5/2024 ma non è ancora stato consegnato. Verificate.,Commerciale,bassa
+273,Modifica quantità su ordine in corso,Devo modificare la quantità dell'ordine 1004 da 10 a 25 unità. È ancora possibile?,Commerciale,bassa
+274,Stato dell'ordine n. 1001,L'ordine 1022 risulta ancora in lavorazione. A quando è prevista la spedizione?,Commerciale,media
+275,Malfunzionamento scanner documenti,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+276,Discrepanza importo in estratto conto,L'estratto conto mensile non corrisponde alle fatture. Chiedo un controllo dettagliato.,Amministrazione,media
+277,Mancato rimborso spese gennaio,La fattura numero 1189 riporta un importo errato di 670 euro invece di 250. Chiedo rettifica.,Amministrazione,media
+278,Chiarimento su nota credito,L'estratto conto mensile non corrisponde alle fatture. Chiedo un controllo dettagliato.,Amministrazione,bassa
+279,PC lento e instabile,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+280,Perdita dati su drive condiviso,Il portale restituisce errore 403. Ho provato con più browser ma la situazione non cambia.,Tecnico,alta
+281,Fattura duplicata maggio,La fattura 1071 risulta emessa due volte nel portale. Chiedo la cancellazione del duplicato.,Amministrazione,media
+282,Impossibile accedere al portale interno,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,bassa
+283,Perdita dati su drive condiviso,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
+284,VPN aziendale non funzionante,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,alta
+285,Sollecito pagamento arretrato,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+286,Domanda su condizioni di fornitura,Vorrei capire i vantaggi del piano Enterprise rispetto all'abbonamento Standard attuale.,Commerciale,bassa
+287,Errore critico all'avvio dell'applicazione,La VPN non si connette: errore timeout. Ho già riavviato il computer ma il problema persiste.,Tecnico,alta
+288,Sollecito pagamento arretrato,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+289,Aggiornamento dati fiscali azienda,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,bassa
+290,Email non inviate: errore SMTP,Alcuni file sul drive condiviso sono scomparsi. È urgente il ripristino dei dati.,Tecnico,alta
+291,Impossibile accedere al portale interno,Lo scanner non viene riconosciuto dopo la sostituzione del cavo USB. Ho reinstallato i driver.,Tecnico,bassa
+292,PC lento e instabile,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+293,Errore importo su fattura n. 1145,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+294,Sistema bloccato dopo aggiornamento,Il laptop va in schermata blu ogni ora. Temo ci sia un driver corrotto o un problema hardware.,Tecnico,alta
+295,Scadenza pagamento non ricevuta,I dati fiscali sono cambiati. Allego il nuovo modello di registrazione per l'aggiornamento.,Amministrazione,bassa
+296,Richiesta catalogo prodotti aggiornato,L'ordine 1131 risulta ancora in lavorazione. A quando è prevista la spedizione?,Commerciale,media
+297,Chiarimento su nota credito,Riscontro una nota credito non applicata sull'ultima fattura. Chiedo verifica e storno corretto.,Amministrazione,media
+298,Interesse per piano Enterprise,Vorrei ricevere il catalogo aggiornato con i nuovi prodotti del secondo semestre.,Commerciale,bassa
+299,Perdita dati su drive condiviso,Le email non vengono inviate: errore 'Connessione SMTP rifiutata'. Riguarda tutti gli utenti.,Tecnico,alta
+300,Email non inviate: errore SMTP,All'avvio ricevo 'Errore critico: database non raggiungibile'. Il servizio è fermo da stamattina.,Tecnico,alta
