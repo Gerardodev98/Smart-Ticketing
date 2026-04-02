@@ -133,9 +133,3 @@ La dashboard ha quattro sezioni:
 - Nessuna rimozione stopword italiane
 - Nessuna lemmatizzazione
 - Priorità basata su keyword fisse, non generalizza a sinonimi
-
----
-
-## 📄 License
-
-MIT License – vedi [LICENSE](LICENSE)
